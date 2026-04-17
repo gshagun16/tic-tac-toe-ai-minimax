@@ -62,12 +62,6 @@ Each move is evaluated recursively until:
 
 ---
 
-## 📸 Demo
-
-(Add screenshot here later)
-
----
-
 ## 🛠️ Installation & Setup
 
 1. Clone the repository:
